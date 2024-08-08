@@ -1,6 +1,6 @@
 # 🐰 Rabbit Mart
 
-Rabbit Mart is a new Egyptian startup that guarantees delivery within 20 minutes of specified locations. While Rabbit
+Rabbit Mart is a new startup that guarantees delivery within 20 minutes of specified locations. While Rabbit
 Mart is only available on mobile platforms, our job is to make the shopping experience available to web users as well.
 
 ## Screenshots
