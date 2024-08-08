@@ -16,5 +16,3 @@ Mart is only available on mobile platforms, our job is to make the shopping expe
 | React        | Node.js      |
 | React Router | Express.js   |
 | Redux        | MongoDB      |
-| Axios        | Stripe       |
-|              | SendGrid     |
